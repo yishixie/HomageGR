@@ -5,8 +5,8 @@ import ddf.minim.*;
 
 Minim minim;
 AudioInput in;
-float n=1000.0;
-float n1=70.0;
+float n=0.0;
+float n1=0.0;
 float n2=0.0;
 import cc.arduino.*;
 import processing.serial.*;
